@@ -1,3 +1,5 @@
+package ejb;
+
 import entity.LeveledFile;
 
 import javax.ejb.Stateless;

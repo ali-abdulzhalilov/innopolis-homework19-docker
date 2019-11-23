@@ -1,3 +1,6 @@
+package servlet;
+
+import ejb.GetFilesEjbLocal;
 import entity.LeveledFile;
 
 import javax.ejb.EJB;
