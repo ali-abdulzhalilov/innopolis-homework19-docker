@@ -6,8 +6,8 @@
 #   4. docker rmi <image id>
 #
 # if launcing for the first time or after the cleanup:
-#   1. docker image build --force-rm -t app-image:0.1 .
-#   2. docker container run --rm -p 9990:9990 -p 8080:8080 --name app-image app-image:0.1
+#   1. docker image build --force-rm -t homework19:0.1 .
+#   2. docker container run --rm -p 9990:9990 -p 8080:8080 --name homework19 homework19:0.1
 #
 # go to http://$DOCKER_HOST:8080/directories to see results of your hard work
 
